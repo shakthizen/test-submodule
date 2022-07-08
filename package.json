@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/shakthizen/test-submodule.git",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
