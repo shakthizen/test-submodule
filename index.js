@@ -1,3 +1,1 @@
-export const myName = "Shakthi Senavirathna";
-
-console.log({ myName });
+export const myName = "Updated Shakthi Senavirathna";
